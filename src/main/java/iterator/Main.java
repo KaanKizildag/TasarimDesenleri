@@ -32,7 +32,7 @@ public class Main {
             bir daha listeleme metodu yazılmayacak aggregate sınıfını extends
             eden her collection'la beraber çalışabilecek durumda.
         
-        ( ! ) for each döngüsündeki iterator de böyle mi çalışıyor ? 
+        
         
         */
         

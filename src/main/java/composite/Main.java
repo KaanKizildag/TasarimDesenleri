@@ -16,6 +16,7 @@ public class Main {
         Composite kitap = new Composite("Tasarım desenleri");
 
         Composite b1 = new Composite("Giriş");
+                // leaf
         b1.add(new Metin("Hello world"));
         b1.add(new Metin("Java ile programlama"));
         
